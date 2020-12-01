@@ -6,16 +6,15 @@
 package imobiliaria;
 
 /**
- *
- * @author jg
+ * @author jg e thurzin
  */
 public class Imobiliaria {
 
     /**
-     * @param args the command line arguments
+     * @param args
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        // TODO 
         System.out.println("alalal");
     }
     
