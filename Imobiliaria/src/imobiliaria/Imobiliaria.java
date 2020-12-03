@@ -22,9 +22,9 @@ public class Imobiliaria {
 
         do {
             System.out.println("***Imobiliária costamar *** \n Escolha uma opção:");
-            System.out.println("1) Cadastrar Imóvel \n 2) Alterar dados de imóvel \n 3) Pesquisar Imível \n 4) Excluir Imóvel \n 5) Relatórios \n 6) Sair");
+            System.out.println("1) Cadastrar Imóvel \n 2) Alterar dados de imóvel \n 3) Pesquisar Imível \n 4) Excluir Imóvel \n 5) Relatórios \n 6) Sair do Sistema");
             opcao = teclado.nextInt();
-            teclado.close();
+            
         } while (opcao > 6);
 
 
@@ -52,7 +52,7 @@ public class Imobiliaria {
            break;
 
            case 6:
-           break;
+           System.exit(0);
 
         }
 
