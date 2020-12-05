@@ -4,7 +4,7 @@ Projeto proposto pelo Professor Davi na aula de linguagem de programação 2° S
 
 Equipe: Arthur Andrade, Douglas, Ewerton, Jefferson Leonardo e João Guilherme
 
-Requistios minimos: JDK 11 e NetBeans
+Requisitios minimos: JDK 11 e NetBeans
 
 # Link do repo
 
