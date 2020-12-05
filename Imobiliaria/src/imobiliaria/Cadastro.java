@@ -56,7 +56,7 @@ public class Cadastro {
         String comodos2 = String.valueOf(comodos);
 
         int area = 0;
-        System.out.println("Area (apenas números: ");
+        System.out.println("Area (apenas números): ");
         while (!teclado.hasNextInt()) {
             System.out.println("Inválido! Insira apenas números: ");
             teclado.nextLine();
@@ -111,8 +111,10 @@ public class Cadastro {
             }
 
             System.out.println("Cadastrado com sucesso :D");
+            System.out.println("Selecione Outra opção na interface gráfica.");
         } catch (IOException ex) {
             System.out.println("Erro encontrado");
+            
         }
 
     }

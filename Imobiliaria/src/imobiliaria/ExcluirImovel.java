@@ -74,6 +74,7 @@ public class ExcluirImovel {
             bw.close();
             fw.close();
             System.out.println("Excluido com sucesso, selecione outra opção :D ");
+            System.out.println("Selecione Outra opção na interface gráfica.");
 
         } catch (IOException ex) {
             System.out.println("Erro encontrado");
